@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+        {
+            "destination": "/index.js",
+            "source": "/(.*)"
+        }
+    ],
+    "version": 2
+}
